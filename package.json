@@ -1,0 +1,29 @@
+{
+  "name": "wdio-test-skel",
+  "version": "0.1.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "Yu Inao",
+  "license": "",
+  "private": true,
+  "engines": {
+    "node": "^6.9.5",
+    "npm": "^3.10.10"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.2.1",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "wdio-mocha-framework": "^0.5.9",
+    "wdio-selenium-standalone-service": "^0.0.8",
+    "wdio-spec-reporter": "^0.0.5",
+    "wdio-visual-regression-service": "^0.7.0",
+    "webdriverio": "^4.6.2"
+  }
+}

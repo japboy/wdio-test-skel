@@ -1,0 +1,14 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "android": 4,
+          "ie": 9,
+          "safari": 6
+        }
+      }
+    ]
+  ]
+}
